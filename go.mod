@@ -15,6 +15,6 @@ require (
 	github.com/mafredri/cdp v0.21.0
 	github.com/pborman/uuid v0.0.0-20170612153648-e790cca94e6c
 	github.com/pkg/errors v0.8.1
-	golang.org/x/net v0.0.0-20190311183353-d8887717615a
+	golang.org/x/net v0.17.0
 	gopkg.in/yaml.v2 v2.2.2 // indirect
 )
